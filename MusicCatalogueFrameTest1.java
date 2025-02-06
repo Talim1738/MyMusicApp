@@ -1,0 +1,3 @@
+class MusicCatalogueFrameTest1 {
+
+}
